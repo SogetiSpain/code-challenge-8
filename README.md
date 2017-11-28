@@ -1,5 +1,5 @@
 # code-challenge-8
-Sogeti Code Challenge 8: Xmas 2017https://github.com/SogetiSpain/code-challenge-8
+Sogeti Code Challenge 8: Xmas 2017
 =====================================
 Desafío #8: Generador de contraseñas
 -----------------------------------
