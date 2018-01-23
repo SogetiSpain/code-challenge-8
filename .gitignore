@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/ekapic/CodeChallenge8.PasswordGenerator/.vs/CodeChallenge8.PasswordGenerator/v15
+/ekapic/CodeChallenge8.PasswordGenerator/bin/Debug
+/ekapic/CodeChallenge8.PasswordGenerator/obj/Debug
+/ekapic/CodeChallenge8.PasswordGenerator/packages
+/ekapic/CodeChallenge8.Tests/bin/Debug
+/ekapic/CodeChallenge8.Tests/obj/Debug
